@@ -1,6 +1,6 @@
 # Advent of Code Challenges
 
-Welcome to my Advent of Code challenge repository! 🎄🧊
+Welcome to my [Advent of Code](https://adventofcode.com/) repository! 🎄🧊
 
 ## Repository Structure
 
