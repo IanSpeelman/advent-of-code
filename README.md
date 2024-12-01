@@ -1,17 +1,16 @@
 # Advent of Code Challenges
 
-Welcome to the Advent of Code challenge repository! 🎄🧊
+Welcome to my Advent of Code challenge repository! 🎄🧊
 
 ## Repository Structure
 
 ### Branches
 - Each branch represents a specific year of Advent of Code challenges
-- Currently, the `2024` branch is the only active branch
+- Currently, the `2024` branch is the only branch
 
 ### Folder Organization
 - Within each year's branch, folders are organized by day
 - Each folder corresponds to a specific day's challenge
-- Challenge solutions are located within their respective day folders
 
 ## Getting Started
 
